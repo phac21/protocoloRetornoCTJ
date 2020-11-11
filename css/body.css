@@ -1,0 +1,206 @@
+#mensagem{
+  padding: 10px;
+}
+.mensagem img{
+  width: 80%;
+  margin-left: 100px;
+
+}
+.mensagem p{
+ font-size: medium;
+ font-weight: 400;
+ Word-wrap: break-Word;
+ line-height: 1.2em;
+ text-align:justify;
+}
+
+#chegando{
+  background-color: #143b67;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom: -100px;
+}
+#chegando h2{
+  color: white;
+  font-weight: 700;
+}
+
+.card{
+  margin-right: 15px;
+  margin-left: 0;
+  border: none;
+
+}
+.card-group{
+  margin-top: 20px;
+  margin-bottom: -60px;
+  margin-left: -10px;
+  
+}
+.card-body{
+  margin-top: 0;
+}
+.card-img-top{
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+.card h5{
+  font-size: medium;
+}
+.card p{
+  padding-top: 0;
+  color: #143b67;
+  font-weight: 300;
+  font-size: small;
+  Word-wrap: break-Word;
+  line-height: 1.2em;
+  text-align:justify;
+}
+#dentro p.lead{
+  padding-top: 10px;
+}
+#dentro h2, h5{
+  font-weight: 600;
+  margin-top: 50px;
+}
+
+#dentro p{
+  color: #143b67;
+  font-weight: 300;
+  font-size: medium;
+  Word-wrap: break-Word;
+  line-height: 1.2em;
+  text-align:justify;
+}
+
+#recomendacoes p{
+  color: #143b67;
+  font-weight: 300;
+  font-size: medium;
+  Word-wrap: break-Word;
+  line-height: 1em;
+  padding-top: 10px;
+  text-align:justify;
+}
+
+#aulas{
+  background-color: #143b67;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom: -100px;
+}
+#aulas h2{
+  color: white;
+  font-weight: 700;
+}
+
+#aulas .card-img-top{
+  width: 100px;
+  height: 100px;
+ 
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+
+#sintomas {
+  padding: 10px;
+}
+
+#sintomas img{
+  margin-top: 50px;
+  width: 100%;
+}
+
+#sintomas p {
+  color: #143b67;
+  font-weight: 300;
+  font-size: medium;
+  Word-wrap: break-Word;
+  line-height: 1.2em;
+  text-align:justify;
+  margin-top: -40px;
+}
+
+#atendimento {
+  background-color: #143b67;
+  padding: 50px ;
+}
+#atendimento p{
+  font-weight: 300;
+  font-size: medium;
+  Word-wrap: break-Word;
+  line-height: 1.2em;
+  text-align:justify;
+}
+.politica a{
+  color:#143b67 ;
+  font-size: small;
+}
+.politica a:hover{
+  color: gray;
+}
+.modal-body p{
+  color:#143b67;
+  font-size: smaller;
+  Word-wrap: break-Word;
+  line-height: 1.2em;
+  text-align:justify;
+}
+
+@media (max-width: 699px) {
+ 
+.mensagem img{
+  padding: 1rem;
+  width: 100%;
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+#chegando{
+  margin-bottom: auto;
+ }
+#chegando container{
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+#chegando .card{
+  margin-right: 0;
+}
+
+#recomendacoes img{
+  width: 80vw;
+  height: auto;
+}
+
+#aulas{
+  margin-bottom: auto;
+ }
+#aulas container{
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+#aulas .card{
+  margin-right: 0;
+}
+#sintomas{
+  margin-top: 0px;
+  padding: 2rem;
+}
+.container h2{
+  padding: 2rem;
+}
+#atendimento p {
+  padding: 2rem;
+  font-size: 18px;
+ }
+ 
+
+}
+
+@media (max-width: 1100px ) and (min-width: 700px){
+
+}

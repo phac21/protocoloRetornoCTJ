@@ -1,0 +1,8 @@
+.navbar{
+  background-color: white;
+}
+.navbar a.nav-link.js-scroll-trigger{
+  color: #172983;
+  font-size: 80%;
+  font-weight: 600;
+}
